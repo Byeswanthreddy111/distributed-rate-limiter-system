@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="drl-logo.png" alt="Distributed Rate Limiter Logo" width="200" height="200">
-
 # 🚀 Distributed Rate Limiter System
 
 **High-performance, Redis-backed rate limiter service with multiple algorithms and REST API**
