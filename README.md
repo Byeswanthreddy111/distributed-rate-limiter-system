@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🚀 Distributed Rate Limiter System
+<img src="drl-logo.png" alt="Distributed Rate Limiter Logo" width="200" height="200">
+
+# 🚀 Distributed Rate Limiter
 
 **High-performance, Redis-backed rate limiter service with multiple algorithms and REST API**
 
@@ -1001,6 +1003,12 @@ This project was developed with assistance from **GitHub Copilot**, which helped
 
 ---
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
 ## 🙏 Acknowledgments
 
 - **Spring Boot Team** - For the excellent framework
@@ -1009,6 +1017,15 @@ This project was developed with assistance from **GitHub Copilot**, which helped
 - **Open Source Community** - For inspiration and feedback
 
 ---
+
+## 🆘 Support
+
+- **Documentation**: Check the [docs/](docs/) directory for comprehensive guides
+- **Issues**: Report bugs and request features via [GitHub Issues](https://github.com/uppnrise/distributed-rate-limiter/issues)
+- **Examples**: See [docs/examples/](docs/examples/) for integration examples
+
+---
+
 <div align="center">
 
 **Built with ❤️ for the developer community**
